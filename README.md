@@ -4,17 +4,17 @@
 
 | Sr.No | Week No | Contents / Activity | Date |
 |------:|:-------:|---------------------|-------------------------|
-| 1 | Week 01 | Group Establishment | 28/07/2025 - 02/08/2025 |
-| 2 | Week 02 | Topic Selection | 04/08/2025 - 16/08/2025 |
-| 3 | Week 03 | Requirement Analysis & System Overview | 18/08/2025 - 23/08/2025 |
-| 4 | Week 04 | System Architecture Design | 28/08/2025 - 02/09/2025 |
-| 5 | Week 05 | Phase 1 of Implementation | 03/09/2025 - 13/09/2025 |
-| 6 | Week 06 | Combined Design & Implementation | 15/09/2025 - 20/09/2025 |
-| 7 | Week 07 | Phase 2 of Implementation | 22/09/2025 - 04/10/2025 |
-| 8 | Week 08 | Phase 3 of Implementation | 06/10/2025 - 18/10/2025 |
-| 9 | Week 09 | System Testing | 29/10/2025 - 01/11/2025 |
-| 10 | Week 10 | Final Results & Analysis | 03/11/2025 - 08/11/2025 |
-| 11 | Week 11 | Final Report & Conclusion | 10/11/2025 - 15/11/2025 |
+| 1 | Week 01 | Group Establishment | 08/01/2026 - 15/01/2026 |
+| 2 | Week 02 | Topic Selection | 19/01/2026 - 29/01/2026 |
+| 3 | Week 03 | Requirement Analysis & System Overview | 29/01/2025 - 31/01/2025 |
+| 4 | Week 04 | System Architecture Design | 07/02/2025 - 18/02/2025 |
+| 5 | Week 05 | Phase 1 of Implementation | 19/02/2025 - 28/02/2025 |
+| 6 | Week 06 | Combined Design & Implementation | 01/03/2025 - 09/03/2025 |
+| 7 | Week 07 | Phase 2 of Implementation | 10/03/2025 - 27/03/2025 |
+| 8 | Week 08 | Phase 3 of Implementation | 28/03/2025 - 01/04/2025 |
+| 9 | Week 09 | System Testing | 05/04/2025 - 27/04/2025 |
+| 10 | Week 10 | Final Results & Analysis | 28/04/2025 - 09/05/2025 |
+| 11 | Week 11 | Final Report & Conclusion | 09/05/2025 - 16/05/2025 |
 
 ---
 
@@ -216,9 +216,9 @@ Final approval received.
 
 ### Team Members:
 - Member 1: [Kalyani Vilas Deshmukh]
-- Member 2: [Anushka Shamkant Bhamare]
+- Member 2: [Jahanvi Hemant Patel]
 - Member 3: [Anjali Atish Amrutkar]
 - Member 4: [Yashwi Vijay Wagh]
 
 ### Guided By:
-**Prof. Yogesh R. Pathak**
+**Dr. P. S. Sanjekar**
