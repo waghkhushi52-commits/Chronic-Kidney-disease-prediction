@@ -20,7 +20,7 @@
 
 ## Week 01: Group Establishment
 
-Date: 28/07/2025 – 02/08/2025
+Date: 08/01/2026 – 15/01/2026
 
 Project group was formed.
 
@@ -38,7 +38,7 @@ Finalize project topic.
 
 ## Week 02: Topic Selection
 
-Date: 04/08/2025 – 16/08/2025
+Date: 19/01/2026 – 29/01/2026
 
 Different healthcare and machine learning project ideas were discussed.
 
@@ -57,7 +57,7 @@ Requirement analysis.
 
 ## Week 03: Requirement Analysis & System Overview
 
-Date: 18/08/2025 – 23/08/2025
+Date: 29/01/2026 – 31/01/2026
 
 Functional requirements such as patient data input and disease prediction were identified.
 
@@ -75,7 +75,7 @@ System architecture design.
 
 ## Week 04: System Architecture Design
 
-Date: 28/08/2025 – 02/09/2025
+Date: 07/02/2026 – 18/02/2026
 
 System architecture for CKD prediction was designed.
 
@@ -93,7 +93,7 @@ Start Phase 1 implementation.
 
 ## Week 05: Phase 1 of Implementation
 
-Date: 03/09/2025 – 13/09/2025
+Date: 19/02/2025 – 28/02/2025
 
 Dataset collection and preprocessing were completed.
 
@@ -111,7 +111,7 @@ Machine learning model development.
 
 ## Week 06: Combined Design & Implementation
 
-Date: 15/09/2025 – 20/09/2025
+Date: 01/03/2026 – 09/03/2026
 
 Machine learning algorithms such as Logistic Regression and Decision Tree were implemented.
 
@@ -129,7 +129,7 @@ Improve model accuracy.
 
 ## Week 07: Phase 2 of Implementation
 
-Date: 22/09/2025 – 04/10/2025
+Date: 10/03/2026 – 27/03/2026
 
 Advanced preprocessing and feature selection techniques were added.
 
@@ -147,7 +147,7 @@ Final implementation.
 
 ## Week 08: Phase 3 of Implementation
 
-Date: 06/10/2025 – 18/10/2025
+Date: 28/03/2026 – 01/04/2026
 
 Final prediction modules were completed.
 
@@ -165,7 +165,7 @@ System testing.
 
 ## Week 09: System Testing
 
-Date: 29/10/2025 – 01/11/2025
+Date: 05/04/2026 – 27/04/2026
 
 Unit testing and integration testing were performed.
 
@@ -183,7 +183,7 @@ Final result analysis.
 
 ## Week 10: Final Results & Analysis
 
-Date: 03/11/2025 – 08/11/2025
+Date: 28/04/2026 – 09/05/2026
 
 System accuracy and model performance were evaluated.
 
@@ -201,7 +201,7 @@ Final report preparation.
 
 ## Week 11: Final Report & Conclusion
 
-Date: 10/11/2025 – 15/11/2025
+Date: 09/05/2025 – 16/05/2025
 
 Final project report was prepared.
 
